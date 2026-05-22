@@ -14,4 +14,12 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Array
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
