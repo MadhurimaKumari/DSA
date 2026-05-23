@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/MadhurimaKumari/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Binary Search
 |  |
 | ------- |
