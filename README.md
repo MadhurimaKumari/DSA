@@ -20,6 +20,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MadhurimaKumari/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
 ## Binary Search
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
