@@ -8,6 +8,7 @@
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/MadhurimaKumari/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MadhurimaKumari/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
