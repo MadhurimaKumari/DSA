@@ -36,6 +36,7 @@
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Simulation
 |  |
 | ------- |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+## Hash Table
+|  |
+| ------- |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 <!---LeetCode Topics End-->
