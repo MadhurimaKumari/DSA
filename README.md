@@ -12,6 +12,7 @@
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MadhurimaKumari/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3908-valid-digit-number](https://github.com/MadhurimaKumari/DSA/tree/master/3908-valid-digit-number) |
 ## Number Theory
 |  |
@@ -25,6 +26,7 @@
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MadhurimaKumari/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
