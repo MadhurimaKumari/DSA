@@ -29,6 +29,7 @@
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MadhurimaKumari/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -63,6 +64,7 @@
 | ------- |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/MadhurimaKumari/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
