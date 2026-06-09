@@ -81,4 +81,12 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/MadhurimaKumari/DSA/tree/master/0110-balanced-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MadhurimaKumari/DSA/tree/master/0338-counting-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/MadhurimaKumari/DSA/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
