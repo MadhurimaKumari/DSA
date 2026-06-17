@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/MadhurimaKumari/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -50,6 +51,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -69,6 +71,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
 |  |
