@@ -46,6 +46,7 @@
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -65,6 +66,7 @@
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/MadhurimaKumari/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 ## Enumeration
@@ -82,6 +84,7 @@
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/MadhurimaKumari/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
