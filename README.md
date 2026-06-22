@@ -90,14 +90,17 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhurimaKumari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MadhurimaKumari/DSA/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhurimaKumari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MadhurimaKumari/DSA/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhurimaKumari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/MadhurimaKumari/DSA/tree/master/0110-balanced-binary-tree) |
 ## Dynamic Programming
 |  |
@@ -120,4 +123,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/MadhurimaKumari/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/MadhurimaKumari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
