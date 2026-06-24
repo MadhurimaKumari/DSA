@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -115,6 +116,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/MadhurimaKumari/DSA/tree/master/0338-counting-bits) |
 ## Two Pointers
 |  |
