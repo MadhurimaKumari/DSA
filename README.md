@@ -12,6 +12,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/MadhurimaKumari/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MadhurimaKumari/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MadhurimaKumari/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -58,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
