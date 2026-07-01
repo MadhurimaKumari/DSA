@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [1143-longest-common-subsequence](https://github.com/MadhurimaKumari/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0338-counting-bits](https://github.com/MadhurimaKumari/DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/MadhurimaKumari/DSA/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/MadhurimaKumari/DSA/tree/master/1143-longest-common-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
