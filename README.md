@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/MadhurimaKumari/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MadhurimaKumari/DSA/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MadhurimaKumari/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -55,6 +56,7 @@
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/MadhurimaKumari/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -63,6 +65,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
