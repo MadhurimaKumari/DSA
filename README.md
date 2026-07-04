@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/MadhurimaKumari/DSA/tree/master/0338-counting-bits) |
 ## Two Pointers
@@ -162,4 +164,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/MadhurimaKumari/DSA/tree/master/1672-richest-customer-wealth) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
