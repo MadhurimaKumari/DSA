@@ -14,6 +14,7 @@
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MadhurimaKumari/DSA/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
+| [0598-range-addition-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/MadhurimaKumari/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -37,6 +38,7 @@
 | [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
+| [0598-range-addition-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
