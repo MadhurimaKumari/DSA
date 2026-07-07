@@ -36,6 +36,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
+| [0238-product-of-array-except-self](https://github.com/MadhurimaKumari/DSA/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0598-range-addition-ii) |
@@ -147,6 +148,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/MadhurimaKumari/DSA/tree/master/0238-product-of-array-except-self) |
 | [1732-find-the-highest-altitude](https://github.com/MadhurimaKumari/DSA/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |
