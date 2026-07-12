@@ -42,6 +42,7 @@
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/MadhurimaKumari/DSA/tree/master/1672-richest-customer-wealth) |
@@ -84,6 +85,7 @@
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MadhurimaKumari/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -112,6 +114,7 @@
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/MadhurimaKumari/DSA/tree/master/1748-sum-of-unique-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
