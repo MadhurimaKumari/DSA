@@ -22,6 +22,7 @@
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MadhurimaKumari/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhurimaKumari/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3895-count-digit-appearances](https://github.com/MadhurimaKumari/DSA/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/MadhurimaKumari/DSA/tree/master/3908-valid-digit-number) |
@@ -54,6 +55,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2942-find-words-containing-character](https://github.com/MadhurimaKumari/DSA/tree/master/2942-find-words-containing-character) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhurimaKumari/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhurimaKumari/DSA/tree/master/3689-maximum-total-subarray-value-i) |
