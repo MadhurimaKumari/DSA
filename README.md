@@ -24,6 +24,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhurimaKumari/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/MadhurimaKumari/DSA/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/MadhurimaKumari/DSA/tree/master/3908-valid-digit-number) |
 ## Number Theory
@@ -31,6 +32,7 @@
 | ------- |
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +61,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhurimaKumari/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/MadhurimaKumari/DSA/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -83,6 +86,7 @@
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
@@ -98,6 +102,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhurimaKumari/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -158,6 +163,7 @@
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
