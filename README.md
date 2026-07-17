@@ -36,6 +36,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhurimaKumari/DSA/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MadhurimaKumari/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
@@ -116,6 +117,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhurimaKumari/DSA/tree/master/0011-container-with-most-water) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/MadhurimaKumari/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -160,6 +162,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/MadhurimaKumari/DSA/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
