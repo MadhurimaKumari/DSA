@@ -77,6 +77,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/MadhurimaKumari/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/MadhurimaKumari/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/MadhurimaKumari/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -129,6 +131,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/MadhurimaKumari/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
