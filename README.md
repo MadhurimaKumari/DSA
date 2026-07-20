@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/MadhurimaKumari/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0258-add-digits](https://github.com/MadhurimaKumari/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/MadhurimaKumari/DSA/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
@@ -31,6 +32,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MadhurimaKumari/DSA/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhurimaKumari/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -88,6 +90,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MadhurimaKumari/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
