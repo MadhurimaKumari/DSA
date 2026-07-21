@@ -22,6 +22,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MadhurimaKumari/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2427-number-of-common-factors](https://github.com/MadhurimaKumari/DSA/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/MadhurimaKumari/DSA/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MadhurimaKumari/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MadhurimaKumari/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
