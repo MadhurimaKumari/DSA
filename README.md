@@ -7,6 +7,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Math
 |  |
@@ -193,6 +194,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/MadhurimaKumari/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Game Theory
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MadhurimaKumari/DSA/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -213,4 +216,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/MadhurimaKumari/DSA/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
