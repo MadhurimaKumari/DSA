@@ -48,6 +48,7 @@
 | [0136-single-number](https://github.com/MadhurimaKumari/DSA/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/MadhurimaKumari/DSA/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0495-teemo-attacking](https://github.com/MadhurimaKumari/DSA/tree/master/0495-teemo-attacking) |
 | [0553-optimal-division](https://github.com/MadhurimaKumari/DSA/tree/master/0553-optimal-division) |
 | [0598-range-addition-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/MadhurimaKumari/DSA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/MadhurimaKumari/DSA/tree/master/0495-teemo-attacking) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2553-separate-the-digits-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
