@@ -56,6 +56,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1672-richest-customer-wealth](https://github.com/MadhurimaKumari/DSA/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/MadhurimaKumari/DSA/tree/master/1732-find-the-highest-altitude) |
@@ -110,6 +111,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/MadhurimaKumari/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/MadhurimaKumari/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/MadhurimaKumari/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/MadhurimaKumari/DSA/tree/master/1859-sorting-the-sentence) |
@@ -220,4 +222,8 @@
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2487-remove-nodes-from-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
