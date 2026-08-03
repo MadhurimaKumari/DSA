@@ -16,9 +16,7 @@ class Solution {
                     count = 1;
                 }
             }
-            
-            // append the last group
-            current.append(count)
+                        current.append(count)
                    .append(result.charAt(result.length() - 1));
             
             result = current.toString();
