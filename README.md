@@ -84,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/MadhurimaKumari/DSA/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/MadhurimaKumari/DSA/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/MadhurimaKumari/DSA/tree/master/0412-fizz-buzz) |
 | [1143-longest-common-subsequence](https://github.com/MadhurimaKumari/DSA/tree/master/1143-longest-common-subsequence) |
