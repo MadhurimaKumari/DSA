@@ -72,6 +72,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/MadhurimaKumari/DSA/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
 | [3689-maximum-total-subarray-value-i](https://github.com/MadhurimaKumari/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/MadhurimaKumari/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3895-count-digit-appearances](https://github.com/MadhurimaKumari/DSA/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/MadhurimaKumari/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -119,6 +120,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/MadhurimaKumari/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/MadhurimaKumari/DSA/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3467-transform-array-by-parity](https://github.com/MadhurimaKumari/DSA/tree/master/3467-transform-array-by-parity) |
+| [3731-find-missing-elements](https://github.com/MadhurimaKumari/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/MadhurimaKumari/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
 |  |
@@ -147,6 +149,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/MadhurimaKumari/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/MadhurimaKumari/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/MadhurimaKumari/DSA/tree/master/1748-sum-of-unique-elements) |
+| [3731-find-missing-elements](https://github.com/MadhurimaKumari/DSA/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/MadhurimaKumari/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Tree
 |  |
