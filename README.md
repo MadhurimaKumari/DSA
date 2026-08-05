@@ -4,6 +4,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MadhurimaKumari/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0092-reverse-linked-list-ii](https://github.com/MadhurimaKumari/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MadhurimaKumari/DSA/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MadhurimaKumari/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/MadhurimaKumari/DSA/tree/master/0075-sort-colors) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/MadhurimaKumari/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/MadhurimaKumari/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
